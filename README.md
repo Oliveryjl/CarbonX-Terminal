@@ -40,5 +40,3 @@ This project fulfills the requirements for Section 6 (Critical Evaluation) and t
 * **Lecturer:** Dr. Tomasz Boryniec
 * **Deadline:** 22nd March 2026
 
----
-**Developed by Li Jiayin & Group Members.** *Xiamen University Malaysia | School of Economics and Management*

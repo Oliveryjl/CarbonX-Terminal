@@ -12,17 +12,16 @@ CarbonX Elite is an institutional-grade prototype developed as part of the **G02
 The project addresses critical inefficiencies in traditional carbon markets by leveraging blockchain as a "Single Source of Truth." We demonstrate how Digital MRV and AMM-based trading can transform voluntary carbon markets.
 
 
-
 ## ✨ Core Features
-* **Institutional Onboarding:** Secure node initialization for environmental entities.
-* **Global Market Oracle:** Real-time price tracking for Malaysia BCX and EU ETS.
+* **Institutional Onboarding:** Secure node initialization for environmental entities via credential verification.
+* **Global Market Oracle:** Real-time price tracking and arbitrage simulation between Malaysia BCX and EU ETS.
 * **Advanced dMRV Simulation:** Automated biomass scanning using satellite data for verified token minting.
-* **Atomic Swap Engine:** Decentralized exchange simulation with instant liquidity.
+* **Atomic Swap Engine:** Decentralized exchange simulation with instant liquidity and P&L tracking.
 * **Proof of Burn:** Permanent retirement protocol with generated on-chain certificates to prevent double counting.
-* **Multi-Modal Interface:** Seamless switching between English, 中文, and Bahasa Melayu with adaptive Dark/Light themes.
+* **Multi-Modal Interface:** Seamless switching between English, 中文, and Bahasa Melayu with adaptive themes.
 
 ## 🛠️ Assignment Task Alignment
-This project fulfills the requirements for Section 6 (Critical Evaluation) and the Optional Bonus (Prototype/Demo) of the course coursework:
+This project fulfills the requirements for Section 6 (Critical Evaluation) and the Optional Bonus (Prototype/Demo) of the G0253 coursework:
 
 | Section | Content | Assignment Requirement |
 | :--- | :--- | :--- |
@@ -33,10 +32,13 @@ This project fulfills the requirements for Section 6 (Critical Evaluation) and t
 ## 🚀 Quick Start
 1. **Clone the Repo:** `git clone https://github.com/YourUsername/CarbonX-Terminal.git`
 2. **Launch:** Open `index.html` in any modern web browser.
-3. **Login:** Use any Organization ID to initialize your institutional node.
+3. **Login:** Enter any Organization ID and Secret Key to initialize your institutional node.
 
 ## 📊 Academic Context
-* [cite_start]**Course:** G0253 Blockchain Finance [cite: 5]
-* [cite_start]**Institution:** Xiamen University Malaysia [cite: 2]
-* [cite_start]**Lecturer:** Dr. Tomasz Boryniec [cite: 5]
-* [cite_start]**Deadline:** 22nd March 2026 [cite: 43]
+* **Course:** G0253 Blockchain Finance
+* **Institution:** Xiamen University Malaysia
+* **Lecturer:** Dr. Tomasz Boryniec
+* **Deadline:** 22nd March 2026
+
+---
+**Developed by Li Jiayin & Group Members.** *Xiamen University Malaysia | School of Economics and Management*
